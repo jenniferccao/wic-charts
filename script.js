@@ -42,7 +42,8 @@ document.addEventListener('DOMContentLoaded', function () {
           data: data,
           tooltip: {
             valueDecimals: 2
-          }
+          },
+          color: '#3e5587'
         }]
       });
     });
