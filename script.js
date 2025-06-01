@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
           },
         },
         rangeSelector: {
-          selected: 1,
+          selected: 0,
           buttonTheme: {
             width: 40
           },
