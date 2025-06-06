@@ -1,27 +1,15 @@
-body {
+html, body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: transparent;
   font-family: Arial, sans-serif;
-  text-align: center;
-  padding-top: 50px;
 }
-button {
-  background-color: #007bff;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-button:hover {
-  background-color: #0056b3;
-}
-#main-container {
-  width: 100%;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 #container {
-  width: 90%;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
 }
